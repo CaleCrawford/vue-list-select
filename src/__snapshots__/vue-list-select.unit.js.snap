@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Item.vue matches the snapshot 1`] = `
+<div role="region">
+  <div>
+    <div>
+      <div>
+        <div>
+          <div tabindex="0">
+            <item-stub item="One"></item-stub>
+          </div>
+        </div>
+        <div>
+          <div tabindex="0">
+            <item-stub item="Two"></item-stub>
+          </div>
+        </div>
+        <div>
+          <div tabindex="0">
+            <item-stub item="Three"></item-stub>
+          </div>
+        </div>
+      </div>
+    </div> <img src="./assets/exchange-alt-solid.svg" alt="">
+    <div>
+      <div></div>
+    </div> <br>
+  </div> <button>Select all</button> <button>Deselect all</button>
+</div>
+`;
