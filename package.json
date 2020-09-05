@@ -54,7 +54,7 @@
     "jest-axe": "^3.4.0",
     "jsdoc": "^3.6.4",
     "minimist": "~1.2.5",
-    "node-sass": "4.12.0",
+    "node-sass": "4.13.1",
     "prettier": "~2.0.5",
     "rollup": "~2.7.3",
     "rollup-plugin-babel": "~4.4.0",
